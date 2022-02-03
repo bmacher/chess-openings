@@ -1,4 +1,4 @@
-# Chess Openings
+# Chess Openings Cheatsheet
 
 ## White
 
