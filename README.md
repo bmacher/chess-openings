@@ -10,7 +10,7 @@
   - <kbd>Bb5</kbd> [**Ruy Lopez**] <kbd>a6</kbd> <kbd>Ba4</kbd> <kbd>b5</kbd> <kbd>Bb3</kbd>
     - <kbd>Bxc6</kbd><kbd>?</kbd> <kbd>dxc6</kbd> <kbd>Nxe5</kbd> <kbd>Qd4</kbd> <kbd>Nf3</kbd> <kbd>Qxe4+</kbd> 
   - <kbd>d4</kbd> [**Scotch**]
-    - Black should <kbd>exd4</kbd> <kbd>Nxe4</kbd> <kbd>Bc4</kbd> <kbd>Bc3</kbd>
+    - black should <kbd>exd4</kbd> <kbd>Nxe4</kbd> <kbd>Bc4</kbd> <kbd>Bc3</kbd>
     - when  <kbd>d6</kbd> <kbd>dxe5</kbd>
       - <kbd>Nxe5</kbd> <kbd>Nxe5</kbd> <kbd>dxe5</kbd> <kbd>Qxd8+</kbd> <kbd>Kxd8</kbd> &rarr; black loses castle
       - <kbd>dxe5</kbd> <kbd>Qxd8+</kbd>
